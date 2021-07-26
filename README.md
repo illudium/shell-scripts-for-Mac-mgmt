@@ -4,6 +4,6 @@ These scripts are provided as-is. You accept sole responsibility for any and all
 
 If something is here, I've used it at one time or another in the past.
 
-They're intended for enhancing some aspect of your
+They're intended for enhancing some aspect of your work.
 
 Cheers !
