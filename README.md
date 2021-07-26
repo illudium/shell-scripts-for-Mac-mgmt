@@ -1,0 +1,1 @@
+# shell-scripts-for-Mac-mgmt
