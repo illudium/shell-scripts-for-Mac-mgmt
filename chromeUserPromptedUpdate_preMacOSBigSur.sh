@@ -30,7 +30,7 @@ if [[ "$INSTALLEDVERSION" == "$CURRENTVERSION" ]]; then
  else
 
  echo "<result>Chrome is out of date</result>"
-  runAsUser osascript -e 'display dialog "(Core Support): Your version of Chrome is out of date, please let it update & then you will need to relaunch Chrome when prompted. Your current tabs will all be restored !" buttons "Ok" default button 1 giving up after (8) with icon caution'
+  runAsUser osascript -e 'display dialog "(IT Support): Your version of Chrome is out of date, please let it update & then you will need to relaunch Chrome when prompted. Your current tabs will all be restored !" buttons "Ok" default button 1 giving up after (8) with icon caution'
   #runAsUser osascript -e 'display dialog "you will need to relaunch Chrome when prompted. Your current tabs will all be restored" buttons "OK" default button 1 giving up after (300)'
   runAsUser osascript -e 'tell application "Google Chrome" to open location "chrome://help"'
  fi
