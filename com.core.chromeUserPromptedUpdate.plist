@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>com.core.chromeUserPromptedUpdate</string>
+	<string>com.company.chromeUserPromptedUpdate</string>
 	<key>Program</key>
 	<string>/usr/local/bin/chromeUserPromptedUpdate.sh</string>
 	<key>StartCalendarInterval</key>
